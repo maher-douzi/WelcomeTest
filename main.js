@@ -1,3 +1,4 @@
+console.error("Error 404")
 // First way(fetch method)
 /*
 fetch("https://jsonplaceholder.typicode.com/users").then((response)=> {response
