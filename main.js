@@ -16,7 +16,7 @@ async function get(){
 }
 get()
     .then((response) => console.log("API fetched"))
-    .catch((error) => console.error("Error 404"))
+    .catch((error) => console.error("Error 404 for example not 400"))
 */
 
 
